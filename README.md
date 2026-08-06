@@ -81,7 +81,7 @@ This project covers a wide range of SQL concepts including:
 # 📁 Project Structure
 
 ```
-Swiggy_SQL_Data_Warehouse
+Swiggy_SQL
 │
 ├── README.md
 │
