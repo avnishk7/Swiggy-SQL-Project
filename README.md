@@ -157,6 +157,8 @@ During this project I learned how to:
 - 🤖 Automate the ETL process
 
 ---
+ **📜 License**
+MIT — feel free to fork, star, and use in your portfolio.
 
 # ⭐ If you found this project useful
 
